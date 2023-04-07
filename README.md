@@ -1,9 +1,9 @@
-### 👋 Hi, my name is Adam and this is my GitHub profile ✨ 
+# 👋 Hi, my name is Adam and this is my GitHub profile ✨ 
 
-## 🛠️ I'm currently working on notespace.pl - a free educational platform for all students from Poland.
+### 🛠️ I'm currently working on notespace.pl - a free educational platform for all students from Poland.
 We created it as part of the Olympiad of social projects called "Zwolnieni z Teorii". We are waiting for its final on April 21, but as we have already obtained the quarter-final of the Pitch Contest and a nomination for the Golden Wolf (the best possible award). We also confess the Silver Wolf, which is the best project in a given province.
 
-## ❓ What experience do I have?
+### ❓ What experience do I have?
 I worked for 2.5 years on Unity and C#
 I know the basics of HTML, CSS, JS, PHP and MySQL
 I'm learning flutter now, planning to release my own mobile app soon 🙌
