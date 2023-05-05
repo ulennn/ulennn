@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Adam and this is my GitHub profile ✨ 
 
 ### 🛠️ I'm currently working on notespace.pl - a free educational platform for all students from Poland.
-We created it as part of the Olympiad of social projects called "Zwolnieni z Teorii". We are waiting for its final on April 21, but as we have already obtained the quarter-final of the Pitch Contest and a nomination for the Golden Wolf (the best possible award). We also confess the Silver Wolf, which is the best project in a given province.
+We created it as part of a nationwide competition of social projects called "Zwolnieni z Teorii". During the final, we won the Silver Wolf (for the best project in a given province) and reached the quarter-finals of the Pitch Contest - this means that we presented our project in front of an audience of several thousand.
 
 ### ❓ What experience do I have?
 I worked for 2.5 years on Unity and C# <br>
