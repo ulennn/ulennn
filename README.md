@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Adam and this is my GitHub profile ✨ 
 
-### 🛠️ I'm currently working on notespace.pl - a free educational platform for all students from Poland.
+### 🛠️ I'm currently working on notespace.edu.pl - a free educational platform for all students from Poland.
 We created it as part of a nationwide competition of social projects called "Zwolnieni z Teorii". During the final, we won the Silver Wolf (for the best project in a given province) and reached the quarter-finals of the Pitch Contest - this means that we presented our project in front of an audience of several thousand.
 
 ### ❓ What experience do I have?
